@@ -18,19 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Stanna karusellen, jag vill hoppa av!
+email: mikael@engstrom.live
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  My first tests with jekyll just to try it out, will probably delete later.
 
 # Build settings
-theme: minima
+remote_theme: coogie/oscailte
 plugins:
   - jekyll-feed
 
@@ -39,6 +33,31 @@ domain: 3nm1.github.io       # if you want to force HTTPS, specify the domain wi
 url: https://3nm1.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 #baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
 
+# Theme specific settings
+oscailte:
+  posts_url:
+  google_analytics:
+  social:
+    #twitter: username
+    github: 3nm1
+    #dribbble: username
+    #facebook: username
+    #flickr: username
+    #instagram: username
+    #linkedin: username
+    #mastodon: https://instance.url/@username
+    #pinterest: username
+    #telegram: username
+    #keybase: username
+    rss: rss
+  strings:
+    skip_to_main_content: "Gå till huvudinnehåll"
+    x_minute_read: "$x$ minut läst"
+    hero_title: "Välkommen till Teknikjul<br> En första test med jekyll"
+    recent_posts: "Nya inlägg"
+    view_all: "Visa alla"
+    read_full: "Läs hela"
+    disqus_enable_javascript: 'Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus</a>.'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
