@@ -37,6 +37,7 @@ url: https://3nm1.github.io  # the base hostname and protocol for your site, e.g
 oscailte:
   posts_url:
   google_analytics:
+  show_excerpts: true
   social:
     #twitter: username
     github: 3nm1
