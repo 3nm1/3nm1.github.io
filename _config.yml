@@ -48,13 +48,13 @@ oscailte:
     #linkedin: username
     #mastodon: https://instance.url/@username
     #pinterest: username
-    #telegram: username
+    telegram: mikael_3nm1
     #keybase: username
     rss: rss
   strings:
     skip_to_main_content: "Gå till huvudinnehåll"
     x_minute_read: "$x$ minut läst"
-    hero_title: "Välkommen till Teknikjul<br> En första test med jekyll"
+    hero_title: "Välkommen till Teknikkul<br> En första test med jekyll"
     recent_posts: "Nya inlägg"
     view_all: "Visa alla"
     read_full: "Läs hela"
