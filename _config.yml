@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stanna karusellen, jag vill hoppa av!
+title: Mikael Engström, Friluftslivare 
 email: mikael@engstrom.live
 description: >- # this means to ignore newlines until "baseurl:"
   My first tests with jekyll just to try it out, will probably delete later.
@@ -45,7 +45,7 @@ oscailte:
     #facebook: username
     #flickr: username
     #instagram: username
-    #linkedin: username
+    linkedin: mikael-engström
     #mastodon: https://instance.url/@username
     #pinterest: username
     telegram: mikael_3nm1
@@ -54,7 +54,7 @@ oscailte:
   strings:
     skip_to_main_content: "Gå till huvudinnehåll"
     x_minute_read: "$x$ minut läst"
-    hero_title: "Välkommen till Teknikkul<br> En första test med jekyll"
+    hero_title: "Välkommen!"
     recent_posts: "Nya inlägg"
     view_all: "Visa alla"
     read_full: "Läs hela"
