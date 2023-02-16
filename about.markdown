@@ -1,11 +1,11 @@
 ---
 layout: page
-title: OM
-permalink: /om/
+title: ABOUT
+permalink: /about/
 ---
-## Om
+## About
 
-Hej, 
+Hello, 
 
-Jag brukar svara Automationsingenjör på frågan "Vad jobbar du med?" 
+this page is just a placeholder for now, since this site is new, due to an unforseen chain of events, that left my searching for a new job. And I'm trying to catch up and fill it with meaningfull content, bear with me.
 

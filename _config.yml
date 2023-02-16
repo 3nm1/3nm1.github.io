@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mikael Engström, Friluftslivare 
-email: mikael@engstrom.live
+title: Mikael Engström, Engineer 
+email: enmi@telia.com
 description: >- # this means to ignore newlines until "baseurl:"
   My first tests with jekyll just to try it out, will probably delete later.
 
