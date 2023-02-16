@@ -2,11 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Home
+title: HOME
 ---
 
-# Hello
-
+# Hello,
 ## A bit about me
 I have since childhood, had a great interest for technology, and trying to wrap my head around how things work (to my sisters dismay, since it sometimes meant I disassembled their toys, to see what made them tick) 
 

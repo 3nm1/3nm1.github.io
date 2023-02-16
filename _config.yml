@@ -52,12 +52,12 @@ oscailte:
     #keybase: username
     rss: rss
   strings:
-    skip_to_main_content: "Gå till huvudinnehåll"
-    x_minute_read: "$x$ minut läst"
-    hero_title: "Välkommen!"
-    recent_posts: "Nya inlägg"
-    view_all: "Visa alla"
-    read_full: "Läs hela"
+    skip_to_main_content: "Skip to main content"
+    x_minute_read: "$x$ minute read"
+    hero_title: "Welcome!<br> To a personal page, mainly geared toward my work and workexperiences"
+    recent_posts: "Recent posts"
+    view_all: "View all"
+    read_full: "Read full"
     disqus_enable_javascript: 'Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus</a>.'
 
 # Exclude from processing.
